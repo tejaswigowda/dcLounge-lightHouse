@@ -49,7 +49,7 @@ function alt()
 		changeColor("5c_cf_7f_ff_f4_e2", 100, 100, 100);
 	}
 	else{
-		changeColor("5c_cf_7f_ff_f4_e2", 101, 99, 101);
+		changeColor("5c_cf_7f_ff_f4_e2", 01, 99, 101);
 	}
 }
 
